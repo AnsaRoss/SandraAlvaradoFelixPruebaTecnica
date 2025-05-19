@@ -18,7 +18,7 @@ Requisitos Previos
 
 ⚙️ Configuración del Proyecto
 1. Clona el repositorio
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/AnsaRoss/SandraAlvaradoFelixPruebaTecnica.git
    cd tu-repo
 2. Restaurar la base de datos
    Ejecuta el script BdJuegosOlimpicos.sql en tu SQL Server local.
