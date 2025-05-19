@@ -57,6 +57,3 @@ Requisitos Previos
       "LogToDatabase": { "Enabled": false }
     }
     Los logs por archivo se guardan en logs/JuegosOlimpicosLog-YYYYMMDD.txt.
-12. Video Explicativo
-    Ver Video Explicativo Aquí
-    (Reemplaza con el enlace real si ya lo subiste a Drive, Dropbox, etc.)
